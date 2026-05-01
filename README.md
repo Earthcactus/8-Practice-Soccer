@@ -1,6 +1,6 @@
 # 8-Practice-Soccer
 
-## Teams and Games
+## Team and Game Class
 
 * For the team and game data, we put them into a private data field because only the team should     access this information.
 
